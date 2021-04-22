@@ -1,2 +1,2 @@
 # Donkeys
-My first training android app. You can find published application in Dragondly repository.
+This my first training android app. You can find published application in Dragondly repository.
